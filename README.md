@@ -28,6 +28,7 @@ To check that things are set up correctly (and this is how to open the web app):
 I will try to set up a CI workflow as soon as possible so that if anybody writes any unit tests they will be checked whenever somebody makes a pull request.
 
 
---NEW INFO FOR DOCUSAURUS WEBPAGE--
-To run the site, just open /my-website in terminal and type 'npm run start' (you need to have node.js installed first)
+--NEW INFO FOR DOCUSAURUS WEBPAGE--  
+To run the site, just open /my-website in terminal and type 'npm run start' (you need to have node.js installed first)  
+IMPORTANT NOTE: Your local repository should be set up such that the path to my-website is C:\Users\yourUsername\Desktop\performanceMeasurer\my-website. Other locations may cause errors.  
 -Jason
